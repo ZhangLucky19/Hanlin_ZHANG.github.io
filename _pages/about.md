@@ -20,3 +20,5 @@ You can find my Transcript in Maynooth University here:[My MU Transcripte](../as
 You can find my transcript in Fuzhou University here:[My FZU Transcript](../assets/MyTranscript.pdf)
 
 You can find my research proposal here:[Research Proposal](../assets/RP.pdf)
+
+Email: hanlin.zhangg@outlook.com
