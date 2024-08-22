@@ -11,10 +11,10 @@ I am an undergraduate student majoring in Robotics and Intelligent Devices at th
 
 I have won scholarships for many times and my GPA is 3.69/4.0 (Average Point 88.01/100). With excellent research experience, I have led some projects and published some international conferences. I also have a solid foundation in engineering math and control theory. If you would like to know more about me, please click the attachment to see my CV and transcript.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-You can find my Transcript in Maynooth University here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
-You can find my transcript in Fuzhou University here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
-You can find my research proposal here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my CV here: [XX's Curriculum Vitae](../images/CV.pdf).
+You can find my Transcript in Maynooth University here:[XX's Curriculum Vitae](../images/MU_transcriptDocument.pdf)
+You can find my transcript in Fuzhou University here:[XX's Curriculum Vitae](../images/MyTranscript.pdf)
+You can find my research proposal here:[XX's Curriculum Vitae](../images/RP.pdf)
 
 
 ————————————————
