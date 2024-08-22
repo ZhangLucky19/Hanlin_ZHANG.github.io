@@ -7,6 +7,23 @@ redirect_from:
   - /about.html
 ---
 
+I am an undergraduate student majoring in Robotics and Intelligent Devices at the Maynooth University, Ireland and Fuzhou University, China. My research interests focus on Computer Vision, Trajectory Planning and Robotics. 
+
+I have won scholarships for many times and my GPA is 3.69/4.0 (Average Point 88.01/100). With excellent research experience, I have led some projects and published some international conferences. I also have a solid foundation in engineering math and control theory. If you would like to know more about me, please click the attachment to see my CV and transcript.
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my Transcript in Maynooth University here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my transcript in Fuzhou University here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+You can find my research proposal here:[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf)
+
+
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
+
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
