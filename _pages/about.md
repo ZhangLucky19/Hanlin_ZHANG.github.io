@@ -15,7 +15,7 @@ I have won scholarships for many times and my GPA is 3.69/4.0 (Average Point 88.
 
 You can find my CV here: [Curriculum Vitae](../assets/CV.pdf).
 
-You can find my Transcript in Maynooth University here:[My MU Transcripte](../assets/MU_transcriptDocument.pdf)
+You can find my Transcript in Maynooth University here:[My MU Transcripte](../assets/MU_transcriptDocument.pdf) I'm working towards a first-class degree.
 
 You can find my transcript in Fuzhou University here:[My FZU Transcript](../assets/MyTranscript.pdf)
 
