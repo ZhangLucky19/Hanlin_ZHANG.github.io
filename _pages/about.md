@@ -22,6 +22,8 @@ You can find my transcript in Fuzhou University here: [My FZU Transcript](../ass
 
 You can find my research proposal here: [Research Proposal](../assets/RP.pdf)
 
+You can find my my presentation: [Presentation](../assets/presentation.pdf)
+
 I apologize for the recommendation letter, because the professors who are familiar with me now are on vacation. I can provide them at a later stage in time.
 
 Email: hanlin.zhangg@outlook.com
